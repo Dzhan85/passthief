@@ -1,3 +1,4 @@
 colorama
 argparse
 xhtml2pdf
+pip_check_reqs
